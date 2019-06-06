@@ -1,8 +1,8 @@
 package com.example.quartz.run;
 
-import static org.quartz.CronScheduleBuilder.cronSchedule;
-import static org.quartz.JobBuilder.newJob;
-import static org.quartz.TriggerBuilder.newTrigger;
+//import static org.quartz.CronScheduleBuilder.cronSchedule;
+//import static org.quartz.JobBuilder.newJob;
+//import static org.quartz.TriggerBuilder.newTrigger;
 
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
